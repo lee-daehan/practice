@@ -8,6 +8,5 @@
 </head>
 <body>
 	<h1>연습2</h1>
-	<h1>연습3</h1>
 </body>
 </html>
